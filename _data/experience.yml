@@ -3,7 +3,7 @@
 - company: Miami-Dade County
   position: Software Development Intern
   duration: Summer 2018
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Developed internal web application granting Miami-Dade 311 administrative personnel the ability to review, modify, and deploy changes to 311's public facing self-service systems. </li><li>Incorporated Agile & CI/CD project practices through daily standups and sprint planning. </li><li>Full-stack built using Spring, Angular 6, in addition to implementation of RESTful interfaces, JSON and XML schema, and the use of leading enterprise development software such as Eclispe Java EE, Visual Studio Code, and Git version control via Atlassian Sourcetree.</li></ul>
+  summary: <ul class="resume-item-list"><li>Developed internal web application granting Miami-Dade 311 administrative personnel the ability to review, modify, and deploy changes to 311's public facing self-service systems. </li><li>Incorporated Agile & CI/CD project practices through daily standups and sprint planning. </li><li>Full-stack built using Spring, Angular 6, in addition to implementation of RESTful interfaces, JSON and XML schema, and the use of leading enterprise development software such as Eclispe Java EE, Visual Studio Code, and Git version control via Atlassian Sourcetree.</li></ul>
 
 # Director of Digital Stratgy
 - company: Aeropostale
